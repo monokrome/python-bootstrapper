@@ -12,11 +12,12 @@ For instance, a step may look like this in the code:
 Yes, this is a real one. You should definitely do it :)
 
 Some examples are:
-- In most Unix operating systems, you can find TODO items with grep:
+In most Unix operating systems, you can find TODO items with grep:
 
     $ grep -R TODO .
 
-- In Vim, you could find and show a list with:
+In Vim, you could find and show a list with:
+
 
     :vimgrep TODO **
     :copen
