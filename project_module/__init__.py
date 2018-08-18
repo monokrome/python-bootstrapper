@@ -14,8 +14,10 @@ are currently reading.
 
 __all__ = (
     '__version__',
-    'version',
-    'prjoect_name',
+    'version_string',
+    'name',
+    'long_description',
+    'short_description',
 )
 
 
