@@ -26,8 +26,11 @@ In Vim, you could find and show a list with:
     :vimgrep TODO **
     :copen
 
-- In most GUI-based text editors, you can use CTRL+SHIFT+F and search files for
+In most GUI-based text editors, you can use CTRL+SHIFT+F and search files for
 TODO.
+
+
+### Contributing
 
 Please feel free to include more specific examples in pull requests if you have
 suggestions for any!
