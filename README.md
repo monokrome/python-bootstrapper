@@ -1,5 +1,7 @@
 # python-bootstrapper
 
+### What it is?!
+
 Simple repostory which can be cloned to bootstrap a Python project. Provides a
 simple list of TODO items for getting your project up as fast as possible,
 which can be discovered by searching the repository for the word TODO after
@@ -11,7 +13,9 @@ For instance, a step may look like this in the code:
 
 Yes, this is a real one. You should definitely do it :)
 
-Some examples are:
+
+### Examples of setting up
+
 In most Unix operating systems, you can find TODO items with grep:
 
     $ grep -R TODO .
