@@ -36,13 +36,12 @@ def version_string(version=__version__):
 
 
 def name():
-    """ Provides a user-friendly name of the projec.t
+    """ Provides the package name for this project
 
-    This can be used to get the name wherever it may be useful. One example
-    case is that this is used to determine the name of the package in the
-    Python package index. This is defined as a function so that the behavior
-    can be easily overridden if necessary, but usually can remain as is.
-    
+    This is the name that is expected to use for your package For instance, the
+    name that is used to install your package in PyPi. This also provides an
+    easy way by which to reference the package name throughout your project.
+
     """
 
     return __name__
