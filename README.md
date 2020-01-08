@@ -1,3 +1,5 @@
+# THIS IS MOVED TO GIT.SR.HT. Visit https://git.sr.ht/~monokrome/python-bootstrapper
+
 # python-bootstrapper
 
 ### What it is?!
